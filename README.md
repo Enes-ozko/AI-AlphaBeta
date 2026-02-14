@@ -33,7 +33,7 @@ The code follows a clean Object-Oriented structure:
 * **`Board` (Model):** Handles grid logic using **NumPy** for memory efficiency. Contains the heuristic engine.
 * **`Connect4` (Controller/View):** Manages the game loop and **Tkinter** GUI rendering.
 
-## 👥 Authors
+## Authors
 * **Enes Ozkosar**
 * Omar Lidalt
 
